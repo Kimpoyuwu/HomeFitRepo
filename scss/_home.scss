@@ -181,6 +181,10 @@
                 transform: scale(.8);
                 margin: 20px;
             }
+            .download:hover{
+                
+                transform: scale(.9);
+            }
             .learn{
                 .lbtn{
                     transform: scale(.8);
@@ -198,7 +202,10 @@
             display: flex;
             flex-direction: column;
             
-    
+            .download:hover{
+                
+                transform: scale(.9);
+            }
         }
     }
     
@@ -258,5 +265,3 @@
     
 
 }
-
-
