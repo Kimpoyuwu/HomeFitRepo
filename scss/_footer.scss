@@ -1,0 +1,45 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background: #077712;
+    
+
+    .foot{
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 33px;
+        /* identical to box height */
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        
+        color: #FFFFFF;
+
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+}
+
+
+@media screen and (max-width: 831px){
+    .footer{
+        .foot{
+            padding-top: 50px;
+            padding-bottom: 50px;
+            font-size: 19px;
+        }
+    }
+}
+
+@media screen and (max-width: 596px){
+    .footer{
+        .foot{
+            padding-top: 40px;
+            padding-bottom: 40px;
+            font-size: 15px;
+        }
+    }
+}
