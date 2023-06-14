@@ -395,6 +395,9 @@ body {
     transform: scale(0.8);
     margin: 20px;
   }
+  .home .btncont .download:hover {
+    transform: scale(0.9);
+  }
   .home .btncont .learn .lbtn {
     transform: scale(0.8);
     margin: 20px;
@@ -407,6 +410,9 @@ body {
   .home .btncont {
     display: flex;
     flex-direction: column;
+  }
+  .home .btncont .download:hover {
+    transform: scale(0.9);
   }
 }
 @media screen and (max-width: 484px) {
@@ -614,6 +620,9 @@ body {
   .learnmore .maincont .leftcont img {
     transform: scale(0.9);
   }
+  .learnmore .maincont .leftcont img:hover {
+    transform: scale(1);
+  }
   .learnmore .maincont .rightcont {
     margin-top: 380px;
   }
@@ -640,6 +649,9 @@ body {
   .learnmore .maincont .leftcont img {
     transform: scale(0.8);
   }
+  .learnmore .maincont .leftcont img:hover {
+    transform: scale(0.9);
+  }
   .learnmore .maincont .rightcont {
     margin-top: 10px;
   }
@@ -661,6 +673,9 @@ body {
   }
   .learnmore .maincont .leftcont img {
     transform: scale(0.7);
+  }
+  .learnmore .maincont .leftcont img:hover {
+    transform: scale(0.8);
   }
   .learnmore .maincont .rightcont p {
     font-size: 21px;
@@ -706,6 +721,9 @@ body {
   .learnmore .maincont .leftcont img {
     transform: scale(0.6);
   }
+  .learnmore .maincont .leftcont img:hover {
+    transform: scale(0.7);
+  }
   .learnmore .maincont .rightcont p {
     font-size: 15px;
   }
@@ -743,6 +761,9 @@ body {
   .learnmore .maincont1 .rightcont1 img {
     transform: scale(0.8);
   }
+  .learnmore .maincont1 .rightcont1 img:hover {
+    transform: scale(0.9);
+  }
   .learnmore .maincont1 .leftcont1 {
     margin-top: 10px;
   }
@@ -767,6 +788,9 @@ body {
   }
   .learnmore .maincont1 .rightcont1 img {
     transform: scale(0.7);
+  }
+  .learnmore .maincont1 .rightcont1 img:hover {
+    transform: scale(0.8);
   }
   .learnmore .maincont1 .leftcont1 .desc .p1 {
     font-size: 20px;
@@ -804,6 +828,9 @@ body {
   .learnmore .maincont1 .rightcont1 img {
     transform: scale(0.6);
   }
+  .learnmore .maincont1 .rightcont1 img:hover {
+    transform: scale(0.7);
+  }
   .learnmore .maincont1 .leftcont1 .desc .p1 {
     font-size: 15px;
   }
@@ -814,6 +841,9 @@ body {
   }
   .learnmore .maincont2 .leftcont2 img {
     transform: scale(0.9);
+  }
+  .learnmore .maincont2 .leftcont2 img:hover {
+    transform: scale(1);
   }
   .learnmore .maincont2 .rightcont2 {
     margin-top: 300px;
@@ -841,6 +871,9 @@ body {
   .learnmore .maincont2 .leftcont2 img {
     transform: scale(0.8);
   }
+  .learnmore .maincont2 .leftcont2 img:hover {
+    transform: scale(0.9);
+  }
   .learnmore .maincont2 .rightcont2 {
     margin-top: 10px;
   }
@@ -862,6 +895,9 @@ body {
   }
   .learnmore .maincont2 .leftcont2 img {
     transform: scale(0.7);
+  }
+  .learnmore .maincont2 .leftcont2 img:hover {
+    transform: scale(0.8);
   }
   .learnmore .maincont2 .rightcont2 .desc .p2 {
     font-size: 21px;
@@ -896,6 +932,9 @@ body {
   .learnmore .maincont2 .leftcont2 img {
     transform: scale(0.6);
   }
+  .learnmore .maincont2 .leftcont2 img:hover {
+    transform: scale(0.7);
+  }
   .learnmore .maincont2 .rightcont2 .desc .p2 {
     font-size: 15px;
   }
@@ -933,6 +972,9 @@ body {
   .learnmore .maincont3 .rightcont3 img {
     transform: scale(0.8);
   }
+  .learnmore .maincont3 .rightcont3 img:hover {
+    transform: scale(0.9);
+  }
   .learnmore .maincont3 .leftcont3 {
     margin-top: 10px;
   }
@@ -957,6 +999,9 @@ body {
   }
   .learnmore .maincont3 .rightcont3 img {
     transform: scale(0.7);
+  }
+  .learnmore .maincont3 .rightcont3 img:hover {
+    transform: scale(0.8);
   }
   .learnmore .maincont3 .leftcont3 .desc .p3 {
     font-size: 20px;
@@ -993,6 +1038,9 @@ body {
 @media screen and (max-width: 401px) {
   .learnmore .maincont3 .rightcont3 img {
     transform: scale(0.6);
+  }
+  .learnmore .maincont3 .rightcont3 img:hover {
+    transform: scale(0.7);
   }
   .learnmore .maincont3 .leftcont3 .desc .p3 {
     font-size: 15px;
